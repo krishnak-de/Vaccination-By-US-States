@@ -1,5 +1,5 @@
 ## **Vaccination-Status-By-US-State**
-1. The public data used in this project is about US Vaccination status for each state.
+1. The public data used in this project is about Covid 19 US Vaccination and Unemployment status for each state.
 1. There is a ETL process applied where data is first extracted from US government publicly available dataset. 
 1. Then transformations are applied using SQL with stored procedures to clean and format the data, especially for US States abbervations using SQL CASE statement for each state.
 1. Next Kimball dimensional data modeling framework is used to create Dimensions and Fact tables as part of Star Schema to store the data at the right granularity for analytical pursposes.
