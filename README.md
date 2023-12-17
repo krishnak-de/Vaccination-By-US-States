@@ -7,9 +7,9 @@
 1. All the SQL code is uploaded from MS SQL Server to Azure database.
 1. Tableau is used to create intreactive reports by creating data model in the tableau using Views stored in Azure database.
 1. There are three separate csv files used as part of this process: 
-  1) USVaccination.csv
-  2) CovidFiles.csv
-  3) USA States
+    1) USVaccination.csv
+    2) CovidFiles.csv
+    3) USA States
 
 
 
